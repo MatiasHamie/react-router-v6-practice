@@ -11,6 +11,7 @@ import BookLayout from "./BookLayout";
 // import Contact from "./Contact";
 
 function App() {
+  // para searchParams ir a <NotFount />
   // Otra forma de definir el Router
   // let element = useRoutes([
   //   {
